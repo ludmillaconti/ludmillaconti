@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ludmillaconti
-- 👀 I’m interested in neural networks and machine learning
-- 🌱 I’m currently learning python
+- 👀 I’m interested in machine learning and python
+- 🌱 I’m currently learning data science and analytics
 - 💞️ I’m looking to collaborate 
 
 
