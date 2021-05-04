@@ -16,11 +16,11 @@
 
 ## Skills
 
-* 🐍 Python
-* 📈 R
-* 🗄 SQL
-* 🔮 Machine Learning 
-* 📊 Data Visualization
+* Python 🐍 
+* R
+* SQL
+* Machine Learning 
+* Data Visualization
 
 
 ## Find me in [Linkedin]( https://www.linkedin.com/in/ludmillaconti/)
