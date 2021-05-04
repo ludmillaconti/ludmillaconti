@@ -28,8 +28,8 @@
 
 ## **My projects**
 
-
-
+* [Previsão Série Temporal do consumo de energia](https://github.com/ludmillaconti/DATASCIENCEproject-previsao-serie-temporal-consumo-energia)
+* [Análise exploratória e forecasting (ARIMA) de Commodities](https://github.com/ludmillaconti/DATASCIENCEproject-Commodity-analise-exploratoria-forecasting)
 
 
 
