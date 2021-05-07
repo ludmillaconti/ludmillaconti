@@ -19,7 +19,6 @@
 * Python 🐍 
 * R
 * SQL
-* Machine Learning 
 * Data Visualization
 
 
