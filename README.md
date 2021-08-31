@@ -1,5 +1,4 @@
 ## 👋 Hi, I’m @ludmillaconti
- - 👀 I’m interested in data science projects
  - 🌱 I’m currently learning
  - 💞️ I’m looking to collaborate 
 ###  
