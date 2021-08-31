@@ -5,23 +5,6 @@
 ###  
 
 
-## Who am I? 
-
-* Data Scientist 🥰
-* Researcher
-* MBA in Data Science and Analytics - USP
-* Bachelor of environmental engineering - USP
-* Master in Meteoroloy - INPE
-* PHD in Meteorology - INPE
-
-## Skills
-
-* Python 🐍 
-* R
-* SQL
-* Data Visualization
-
-
 ## Find me in [Linkedin]( https://www.linkedin.com/in/ludmillaconti/)
 
 
